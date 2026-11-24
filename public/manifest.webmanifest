@@ -1,0 +1,25 @@
+{
+  "name": "LipiPulse — Pratilipi Author Studio",
+  "short_name": "LipiPulse",
+  "description": "Offline-first analytics studio for Pratilipi authors: daily snapshot deltas across channels, stories and episodes.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FAFAF9",
+  "theme_color": "#FAFAF9",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
